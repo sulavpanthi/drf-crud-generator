@@ -50,14 +50,14 @@ app_config = {
 ```
 Placeholders ==> <app_name>, <model_1>, <model_2>, <field_1>, <field_2>
 ```
-[Note:
- 
-i)Can add any number of models and fields with comma separation
 
 3. inside python shell run below command,
 ```
 python manage.py generate_crud
 ```
+[Note:
+ 
+i)Can add any number of models and fields with comma separation
 
 ## Contributing
 ---
